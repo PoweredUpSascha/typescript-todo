@@ -1,0 +1,9 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #999;
+}
